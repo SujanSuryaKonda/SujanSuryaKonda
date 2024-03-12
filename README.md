@@ -23,4 +23,4 @@
 Currently expanding my knowledge in data science and programming.
 </p>
 
-* (Skill set): Python | C | SQL | Machine Learning | Deep Learning | AWS | Cloud Computing | OS | Computer Networks | Database Systems and programming | Embedded Systems and Microcontrollers |
+* (Skill set): Python | C | SQL | Machine Learning | Deep Learning | AWS | Cloud Computing | OS | Computer Networks | Database Systems and programming | Embedded Systems and Microcontrollers | MongoDB | Data Visualization |
