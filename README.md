@@ -17,11 +17,7 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=SujanSuryaKonda&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
-</p>
 
-
-* A passionate Electrical and Computer Engineer with interest for leveraging cutting-edge technologies to solve modern problems and drive innovation. Equipped with knowledge in Artificial Intelligence, Machine Learning, and Database Systems, and a keen interest in participating in the development of Next-Generation technologies. I am dedicated to contributing my expertise to projects that drive innovation while prioritising Sustainable Development and Social Responsibility.
-Currently expanding my knowledge in data science and programming.
 </p>
 
 * (Skill set): Python | C | SQL | Machine Learning | Deep Learning | AWS | Cloud Computing | OS | Computer Networks | Database Systems and programming | Embedded Systems and Microcontrollers | MongoDB | Data Visualization |
