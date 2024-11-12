@@ -13,11 +13,6 @@
 <br/> 
 
 
-<a href="https://github.com/SujanSuryaKonda">
-    <img src="https://github-stats-alpha.vercel.app/api?username=SujanSuryaKonda&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
-
-
 </p>
 
 * (Skill set): Python | C | SQL | Machine Learning | Deep Learning | AWS | Cloud Computing | OS | Computer Networks | Database Systems and programming | Embedded Systems and Microcontrollers | MongoDB | Data Visualization | 
